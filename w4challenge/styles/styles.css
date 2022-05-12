@@ -1,0 +1,43 @@
+body {
+    background-color: #fca6c9;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+.quote {
+    color: white;
+    text-align: center;
+}
+ol {
+    margin-left: 37%;
+    font-weight: bolder;
+}
+li {
+    margin-top: .8em;
+}
+img {
+    width: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#footer {
+    text-align: center;
+}
+#bottom {
+    font-size: 200%;
+}
+.nelson {
+    font-family: 'Rubik', sans-serif;
+}
+h2 {
+    font-size: medium;
+}
+h1:hover {
+    color: black;
+}
+#top {
+    font-size: 60%;
+}
