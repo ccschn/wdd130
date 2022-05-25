@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Nunito&family=Rubik:wght@300&family=Taviraj:ital,wght@1,600&display=swap');
+
+.container {
+    display: grid;
+    grid-template-columns: 200px 200px;
+}
+.head {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    z-index: 1;
+    font-size: 40px;
+    text-align: center;
+    align-self: center;
+    font-family: Taviraj, serif;
+}
+.small {
+    grid-column: 2/3;
+    grid-row: 2/3;
+    z-index: 1;
+    text-align: center;
+    align-self: center;
+    color: rgb(148, 25, 25);
+    font-size: 40px;
+}
+.image {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    align-self: center;
+}
+.gray {
+    background-color: rgb(183, 177, 177);
+    grid-column: 2/3;
+    grid-row: 1/3;
+}
+img {
+    width: 100%;
+}
