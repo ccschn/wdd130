@@ -97,23 +97,23 @@
   grid-template-columns: 1fr 1fr;
 }
 .red4 {
-  width: 250px; 
+  width: 500px; 
   height: 400px; 
   background-color: red; 
   grid-row: 1/4;
 } 
 .green4 {
-  width: 250px; 
+  width: 500px; 
   height: 133px; 
   background-color: green; 
 } 
 .yellow4 {
-  width: 250px; 
+  width: 500px; 
   height: 133px; 
   background-color: gold; 
 } 
 .blue4 {
-  width: 250px; 
+  width: 500px; 
   height: 133px; 
   background-color: blue; 
 } 
