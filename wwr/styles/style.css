@@ -181,6 +181,29 @@ main section img {
     box-sizing: border-box;
 }
 
+/*FAQ page CSS*/
+#pg-title {
+    font-size: 30px;
+    padding-top: 6%;
+}
+.questions {
+    color: black;
+    background-color: gray;
+    padding-left: 3%;
+    font-size: 20px;
+}
+.answer {
+    color: #EFF6F2;
+    padding-left: 7%;
+    font-size: 15px;
+    padding-right: 5%;
+}
+.list {
+    padding-left: 10%;
+    color: #EFF6F2;
+    font-size: 15px;
+}
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
