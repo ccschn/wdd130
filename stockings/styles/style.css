@@ -368,7 +368,7 @@ footer .social img {
 #answers-1 {
     grid-column: 2/3;
     grid-row: 2/3;
-    min-height: 45%;
+    min-height: 44%;
     margin-top: -1.4%;
 }
 #questions-2 {
