@@ -287,7 +287,7 @@ footer .social img {
     color: rgba(255, 255, 255, 0.877);
     font-family: Cookie, "Brush Script MT";
     font-size: 5em;
-    margin-top: 650px;
+    margin-top: 600px;
     background-color: #7f280e; opacity: .9;
     border-radius: 25px;
 }
@@ -368,7 +368,7 @@ footer .social img {
 #answers-1 {
     grid-column: 2/3;
     grid-row: 2/3;
-    min-height: 44%;
+    min-height: 42%;
     margin-top: -1.4%;
 }
 #questions-2 {
